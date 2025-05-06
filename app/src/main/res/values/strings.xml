@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="android_logo_description">Android logo</string>
+    <string name="full_name">Rodrigo Angeloni</string>
+    <string name="title">Estudiante de Informatica</string>
+    <string name="phone_number">+11 (123) 444 555 666</string>
+    <string name="social_handle">\@RodrigoAngeloni</string>
+    <string name="email">rodrigo\@angeloni.com</string>
+</resources>
